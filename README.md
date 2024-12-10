@@ -11,4 +11,4 @@
 
 **GitHub Pages**
 
-* Ссылка на сайт в GitHub Pages: 
+* Ссылка на сайт в GitHub Pages: https://dzurinskaa.github.io/Mesto_Russia/
