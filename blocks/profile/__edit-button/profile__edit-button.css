@@ -1,0 +1,9 @@
+.profile__edit-button{
+    width: 100%;
+    max-width: 27px;
+    max-height: 27px;
+    background-color: transparent;
+    margin-bottom: 15px;
+    cursor: pointer;
+ 
+}
